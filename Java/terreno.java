@@ -7,7 +7,7 @@ public class terreno {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
 
-        double largura, comprimento,valor, area, preco;
+        double largura, comprimento, valor, area, preco;
 
         System.out.print("Digite a largura do terreno:");
         largura =sc.nextDouble();

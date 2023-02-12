@@ -22,7 +22,7 @@ int main() {
     }
     else {
         aumento = salario * 0.05;
-        porcentagem += 5;
+        porcentagem = 5;
     }
 
     novoSalario = aumento + salario;

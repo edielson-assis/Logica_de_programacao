@@ -17,8 +17,9 @@ public class Troco_verificado {
 
         total = preco * quantidade;
 
-        System.out.printf("TOTAL = %.2f\n", total);
-        System.out.printf("Dinheiro reecebido: ");
+        System.out.printf("TOTAL = %.2f%n", total);
+
+        System.out.print("Dinheiro reecebido: ");
         dinheiro = sc.nextDouble();
 
         if (dinheiro < total) {
