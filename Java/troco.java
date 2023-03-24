@@ -1,7 +1,7 @@
 import java.util.Locale;
 import java.util.Scanner;
 
-public class troco {
+public class Troco {
     public static void main(String[] args) {
 
         Locale.setDefault(Locale.US);

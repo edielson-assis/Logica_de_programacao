@@ -1,7 +1,7 @@
 import java.util.Locale;
 import java.util.Scanner;
 
-public class consumo {
+public class Consumo {
     public static void main(String[] args) {
 
         Locale.setDefault(Locale.US);
